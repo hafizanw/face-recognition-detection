@@ -11,4 +11,3 @@ opencv-python>=4.5.0
 matplotlib>=3.10.8
 seaborn>=0.13.2
 tensorflow>=2.21.0
-transformers
